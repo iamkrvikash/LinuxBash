@@ -9,3 +9,7 @@
 7. echo
 8. read NAME
 9. echo $NAME
+10. mkdir
+11. mv
+12. echo $(pwd)
+13. cp
