@@ -1,0 +1,6 @@
+# Commands 
+
+1. bash --version
+2. touch john.txt
+3. touch mike.txt jenna.txt
+
