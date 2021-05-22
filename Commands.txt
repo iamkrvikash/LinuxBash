@@ -3,4 +3,9 @@
 1. bash --version
 2. touch john.txt
 3. touch mike.txt jenna.txt
-
+4. ls
+5. ls -al
+6. which touch
+7. echo
+8. read NAME
+9. echo $NAME
