@@ -23,4 +23,6 @@
     else
          # else code here
     fi
-19. echo $RANDOM 
+19. echo $RANDOM
+20. echo $(seq 0 2 11)  #list generation 0 2 4 6 8 10 
+21. bash variable.sh Mango Apple Banana
