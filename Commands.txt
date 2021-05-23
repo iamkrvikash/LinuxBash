@@ -17,3 +17,10 @@
 15. expr
 16. echo $? # prints the status of last command executed
 17. test = [ #alias of test
+18. if [ condition statements ]
+    then
+         # if code here
+    else
+         # else code here
+    fi
+19. echo $RANDOM 
