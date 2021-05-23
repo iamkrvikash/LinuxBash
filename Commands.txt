@@ -14,4 +14,4 @@
 12. echo $(pwd)
 13. cp
 14. let #arithmetic operations
-
+15. expr
