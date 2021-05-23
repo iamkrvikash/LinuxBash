@@ -15,3 +15,5 @@
 13. cp
 14. let #arithmetic operations
 15. expr
+16. echo $? # prints the status of last command executed
+17. test = [ #alias of test
