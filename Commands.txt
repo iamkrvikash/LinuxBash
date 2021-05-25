@@ -26,3 +26,15 @@
 19. echo $RANDOM
 20. echo $(seq 0 2 11)  #list generation 0 2 4 6 8 10 
 21. bash variable.sh Mango Apple Banana
+22. grep -i "word" file.txt
+          -i // case insensitive
+	  -c //count
+	  -w //whole word
+	  -l //list the files
+	  -o //only the matched pattern
+	  -n //word with line numbers
+	  -v //inverted answer
+	  -e "word" -e "word2" -e "word3" text.txt
+23. grep "^unix" text.txt //start of string
+         "end" text.txt   //end with string
+
