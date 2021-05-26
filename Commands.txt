@@ -50,3 +50,19 @@
      #perform action
    done
 27.ls *.txt   #pattern matching
+28. case STRING in
+      test1)
+       //statements  ;;
+       test2)
+       //statements  ;;
+    esac
+29. echo " $1 $2 " //positional parameter
+30. ${#VARNAME}   //Length of argument
+31. function name(){
+     //statements
+    }
+32. ARRAY=( A B C )
+    echo ${ARRAY[0]] == A
+33. ARRAY[*] ARRAY[@] difference
+
+
