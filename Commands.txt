@@ -37,4 +37,16 @@
 	  -e "word" -e "word2" -e "word3" text.txt
 23. grep "^unix" text.txt //start of string
          "end" text.txt   //end with string
-
+24. for iterator
+    do
+       #Perform action
+    done
+25. while [ ]
+    do
+      #perform action
+    done
+26.until []     #here conditon must evaluate to true to terminate
+   do
+     #perform action
+   done
+27.ls *.txt   #pattern matching
