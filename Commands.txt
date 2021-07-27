@@ -65,5 +65,6 @@
     echo ${ARRAY[0]] == A
 33. ARRAY[*] ARRAY[@] difference
 34. find /home/novice/ -name "*.tcl"     //find all the files with extension tcl at home location
+35. find ./ -user vikash -iname "*.txt"  //find all the changes made by user novice ignoring the textcase in txt files
 
 
