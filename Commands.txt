@@ -64,5 +64,6 @@
 32. ARRAY=( A B C )
     echo ${ARRAY[0]] == A
 33. ARRAY[*] ARRAY[@] difference
+34. find /home/novice/ -name "*.tcl"     //find all the files with extension tcl at home location
 
 
